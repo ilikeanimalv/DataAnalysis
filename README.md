@@ -7,11 +7,11 @@
 
 ## 목차
 
-1. 통계 및 수학
+1. Statistics and Math
   
-2. 데이터 분석 일반
+2. Data Analysis In General
   
-3. 머신러닝
+3. Machine Learning
   
 
 ## 내용 구성
