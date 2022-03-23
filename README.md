@@ -1,4 +1,4 @@
-작성 목표
+# 작성 목표
 
 - 데이터 분석에서 활용되는 통계/머신러닝 개념을 확실하게 정립
   
@@ -28,4 +28,4 @@
 
 ## 작성에 참고한 사이트
 
-1. [GitHub - zzsza/Datascience-Interview-Questions: Datascience-Interview-Questions for Korean
+1. (GitHub - zzsza/Datascience-Interview-Questions: Datascience-Interview-Questions for Korean)
