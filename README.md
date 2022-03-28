@@ -28,4 +28,4 @@
 
 ## 작성에 참고한 사이트
 
-1. [데이터 사이언스 취준생을 위한 글](https://github.com/zzsza/Datascience-Interview-Questions#%EA%B3%B5%ED%86%B5-%EC%A7%88%EB%AC%B8)
+1. [변성윤님의 글] (https://github.com/zzsza/Datascience-Interview-Questions#%EA%B3%B5%ED%86%B5-%EC%A7%88%EB%AC%B8)
